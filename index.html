@@ -1,70 +1,44 @@
 ---
-layout: default960
+layout: default
 title: Anti's World - Welcome
 ---
 
-<table width="100%" cellspacing="0" cellpadding="1" border="0" bgcolor="#99ccff" summary="">
-	<tr><td>
-		<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#99ccff" summary="">
-			<tr><td>
-				<table width="100%" border="0" cellpadding="2" cellspacing="0" summary="">
-					<tr><td align="center" class="boxheader">Info</td></tr>
-				</table>
+<article class="itembox">
+	<div class="boxheader">
+		Info
+	</div>
+	<div class="boxcontent">
+		This is just my (=anti's) homepage. Nothing fancy here.<br>
+		I just use it to test new stuff;<br>
+		And keep myself uptodate of what I'm up to.<br>
+		(Just playing with CVS -> GIT....)<br>
+	</div>
+</article>
 
-				<table width="100%" border="0" cellpadding="2" cellspacing="1" summary="">
-					<tr><td class="boxitem">
-						This is just my (=anti's) homepage. Nothing fancy here.<br>
-						I just use it to test new stuff;<br>
-						And keep myself uptodate of what I'm up to.<br>
-						(Just playing with CVS....)<br>
-					</td></tr>
-				</table>
-
-			</td></tr>
-		</table>
-	</td></tr>
-</table>
-
-
-<table width="100%" cellspacing="0" cellpadding="1" border="0" bgcolor="#99ccff" summary="">
-	<tr><td>
-		<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#99ccff" summary="">
-			<tr><td>
-				<table width="100%" border="0" cellpadding="2" cellspacing="0" summary="">
-					<tr><td align="center" class="boxheader">Cams</td></tr>
-				</table>
-
-
-				<table width="100%" border="0" cellpadding="2" cellspacing="1" summary="">
-					<tr><td class="boxitem">
-						<a href="home/cam1.jpg"><img src="home/minicam1.jpg" alt="1 - Living Room" width="88" height="72"></a><br>
-					</td></tr>
-				</table>
-			</td></tr>
-		</table>
-	</td></tr>
-</table>
-
-<p>
-
+<article class="itembox">
+	<div class="boxheader">
+		Cams
+	</div>
+	<div class="boxcontent">
+		<a href="home/cam1.jpg"><img src="home/minicam1.jpg" alt="1 - Living Room" width="88" height="72"></a><br>
+	</div>
+</article>
 
 {% for post in site.posts limit:6 %}
-<table summary="border" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#99ccff">
-  <tr><td>
-  <table summary="navbox" width="100%" border="0" cellpadding="2" cellspacing="0">
-    <tr><td align="left" class="navheader"><a href="{{ post.url }}">{{ post.title }}</a></td>
-    <td align="right" class="navheader">Posted on {{ post.date | date_to_long_string }}</td></tr>
-  </table>
-
-  <table summary="navitem" width="100%" border="0" cellpadding="2" cellspacing="1">
-    <tr><td class="navitem" colspan="2" align="left">
+<article class="itembox">
+	<div class="boxheader">
+		<span class="postsubject"><a href="{{ post.url }}">{{ post.title }}</a></span>
+		<span class="postdate">Posted on {{ post.date | date_to_long_string }}</span>
+	</div>
+	<div class="boxcontent">
 	{{ post.content }}
-	</td></tr>
-  </table>
-  </td></tr>
-</table>
-<br>
+	</div>
+</article>
 {% endfor %}
+<article class="itembox">
+	<div class="boxcontent">
+		more/older <a href="events/">news and events</a>
+	</div>
+</article>
 
-more/older <a href="events/">news and events</a>
 

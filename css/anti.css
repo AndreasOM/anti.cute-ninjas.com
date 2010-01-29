@@ -1,3 +1,16 @@
+#wrapper {
+	background: #3366ff;
+}
+
+#header {
+	text-align: center;
+	background: #3366ff;
+}
+
+#main {
+	background: #3366ff;
+}
+
 #nav {
 	background: #99ccff;
 }
@@ -18,14 +31,36 @@
 	background: #3366ff;
 }
 
-#wrapper {
+#content {
 	background: #3366ff;
 }
 
-#header {
+.itembox {
+	background: #3366ff;
+	display: block;
+}
+
+.boxheader {
 	text-align: center;
+	background: #3366ff;
+	border: 2px solid #99ccff;
+	background: #99ccff;
+	border: 1px solid black;
+	margin-top: 5px;
+
+	font-family:'Times New Roman',Times,serif;
+	font-size: 200%;
 }
 
-#content {
+.boxcontent {
+	background: #99ccff;
+	padding: 5px;
 }
 
+.postsubject {
+	text-align: left;
+}
+
+.postdate {
+	text-align: right;
+}
