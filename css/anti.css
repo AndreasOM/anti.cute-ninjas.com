@@ -31,6 +31,10 @@
 	background: #3366ff;
 }
 
+#nav img {
+	border: 0;
+}
+
 #content {
 	background: #3366ff;
 }
