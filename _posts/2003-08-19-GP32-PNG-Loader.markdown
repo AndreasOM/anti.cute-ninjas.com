@@ -2,6 +2,7 @@
 layout: post
 title: GP32 - PNG Loader
 ---
+
 This morning I had a big mouth,<br>
 about being able to write a (simplistic) PNG loader<br>
 that is working on the GP32.<br>
