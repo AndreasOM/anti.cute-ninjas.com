@@ -1,0 +1,13 @@
+<article class="itembox">
+	<div class="boxheader">
+		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span>
+		<span class="postdate">Posted on {{ item.date | date_to_long_string }}</span>
+	</div>
+	<div class="boxcontent">
+	{{ item.content }}
+	{{ item.shot }}
+	<a href="/images/SHOTS/full_shot_{{ item.shot }}">
+	<img src="/images/SHOTS/thumb_shot_{{ item.shot }}" />
+	</a>
+	</div>
+</article>

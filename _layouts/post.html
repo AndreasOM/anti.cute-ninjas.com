@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<article class="itembox">
-	<div class="boxheader">
-		<span class="postsubject"><a href="{{ page.url }}">{{ page.title }}</a></span>
-		<span class="postdate">Posted on {{ page.date | date_to_long_string }}</span>
-	</div>
-	<div class="boxcontent">
-	{{ content }}
-	</div>
-</article>
+{% assign item = page %}
+{% include item_post.html %}
+
