@@ -1,0 +1,11 @@
+---
+layout: screenshot
+shot: 01-01-18_202913.png
+---
+
+Just a quick hack from a few usenet pics and my old bumpy blue-background.
+
+Nothing special here.
+
+Layermasks are a nice feature in the gimp.
+

@@ -4,10 +4,18 @@
 		<span class="postdate">Posted on {{ item.date | date_to_long_string }}</span>
 	</div>
 	<div class="boxcontent">
-	{{ item.content }}
-	{{ item.shot }}
-	<a href="/images/SHOTS/full_shot_{{ item.shot }}">
-	<img src="/images/SHOTS/thumb_shot_{{ item.shot }}" />
-	</a>
+		<table>
+		<tr>
+		<td>
+			<a href="/images/SHOTS/full_shot_{{ item.shot }}">
+			<img src="/images/SHOTS/thumb_shot_{{ item.shot }}" />
+			</a>
+		</td>
+		<td>
+			&nbsp;
+			{{ item.content }}
+		</td>
+		</tr>
+		</table>
 	</div>
 </article>
