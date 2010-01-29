@@ -1,0 +1,22 @@
+---
+layout: default
+title: Anti's World - Welcome
+---
+
+{% for post in site.posts %}
+<table summary="border" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#99ccff">
+  <tr><td>
+  <table summary="navbox" width="100%" border="0" cellpadding="2" cellspacing="0">
+    <tr><td align="left" class="navheader"><a href="{{ post.url }}">{{ post.title }}</a></td>
+    <td align="right" class="navheader">Posted on {{ post.date | date_to_long_string }}</td></tr>
+  </table>
+
+  <table summary="navitem" width="100%" border="0" cellpadding="2" cellspacing="1">
+    <tr><td class="navitem" colspan="2" align="left">
+	{{ post.content }}
+	</td></tr>
+  </table>
+  </td></tr>
+</table>
+<br>
+{% endfor %}
