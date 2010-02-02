@@ -1,0 +1,18 @@
+---
+layout: post
+title: Jekyll
+time: "13:39"
+---
+
+Tweaking my templates to do what they are supposed to do.
+
+I'm trying to stay away from reading the (Jekyll-)code to understand how to do things.
+The documentation should really be enough.
+
+So far I have some workaround tweaks, but nothing satisfying.
+
+Including snippets via liquid is still a little confusing.
+
+
+Lunchbreak is over, so I have to get back to some real world.  
+(This site isn't live anyway...)
