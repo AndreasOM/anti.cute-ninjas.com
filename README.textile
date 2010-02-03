@@ -1,0 +1,16 @@
+h1. anti.cute-ninjas.com
+
+By Andreas Neukoetter
+
+This is the raw data of my personal blog.
+The whole thing is based on Jekyll
+
+h2. License
+
+For all the layout and scripts and extensions and stuff:
+(The MIT License)
+
+For all _content_ (e.g. posts, images, tarballs, etc).
+Copyrighted to Andreas Neukoetter.
+Do not use without written permission.
+
