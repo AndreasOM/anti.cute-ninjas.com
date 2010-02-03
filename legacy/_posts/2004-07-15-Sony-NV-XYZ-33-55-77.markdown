@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Sony NV-XYZ ..."
+---
+<h1>Sony NV-XYZ 33/55/77</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I own an empeg MK2,
+    which is still the best thing there is,
+    but this
+    <a href="http://linuxdevices.com/news/NS6146656870.html">Sony debuts Linux-based in-car nav / infotainment line in Japan</a>
+    might be up to the challenge...
+    
+    
+

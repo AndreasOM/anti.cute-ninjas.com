@@ -1,0 +1,16 @@
+---
+layout: post
+title: "gravatar"
+---
+<h1>gravatar</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Working on the blog again.
+    
+    Bringing you gravatars.
+    Not sure if they will stay.
+    
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "feh"
+---
+<h1>feh</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Tom started playing around with feh again.
+    <a href="http://linuxbrit.co.uk/blog/2004/08/31/feh-work/">[LinuxBrit] - Blog - feh work</a>
+    
+    I hope he will apply the <a href="/patches/feh-1.2.6-anti-lock.patch">screen lock patch</a> (that I 've sent to him yesterday) before he releases a new version.
+    
+    I really like adding functionallity to tools I use every day,
+    but I hate to keep track of my patches ;)
+    
+

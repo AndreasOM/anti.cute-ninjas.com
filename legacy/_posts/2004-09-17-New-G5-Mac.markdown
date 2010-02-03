@@ -1,0 +1,21 @@
+---
+layout: post
+title: "New G5 Mac"
+---
+<h1>New G5 Mac</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I just got a brandnew G5 Mac.
+    
+    PowerMac 7,3
+    Dual PPC970 (with altivec)
+    2.5 GB RAM
+    160GB SATA HardDisk
+    GeForce FX 52000
+    
+    Just about to install gentoo...
+    
+

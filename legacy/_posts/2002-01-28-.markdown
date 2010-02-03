@@ -1,0 +1,19 @@
+---
+layout: post
+title: ""
+---
+<h1></h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Downgraded the chrooted system on blue2 (aka purple) to binutils 2.9.5.0.37-1 (the version from stable)<br />
+    to be able to compile 2.4.18pre7.<br />
+    <br />
+    Will install grub now to be able to boot into the new system.<br />
+    And then we'll see what breaks.<br />
+    <br />
+    (I installed blue2 (aka purple aka red) over 6 years ago and it grew from there,<br />
+    so I'm not quite sure what is needed.)<br />
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Zustand"
+---
+<h1>Zustand</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Mein Zustand heute ist wieder relativ gut.
+    
+    Gestern sah das ganze allerdings anders aus.
+    Hatte ziemlich starke Schmerzen im Bauch.
+    
+    Frage:
+    <strong>Wenn ich unter CPPS leide,
+    warum sind meine Schmerzen dann hauptsächlich im Bauch und im Bein ?</strong>
+    
+

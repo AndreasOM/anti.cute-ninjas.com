@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Ads"
+---
+<h1>Ads</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Ever since Google AdSense kicked me out of their program about a year ago now,
+    my ad revenue went <strong>up</strong>.
+    
+    <em>Up?</em>
+    Yes, <strong>up</strong>.
+    
+    I simply replaced their ads with <a href="http://www.adbrite.com/mb/landing_both.php?spid=6299&afb=110x32-2">AdBrite</a> ads and now I earn much more with a lot less work.
+    
+    So what are you waiting for:
+    <a href="http://www.adbrite.com/mb/landing_both.php?spid=6299&afb=110x32-2">
+    <img src="http://files.adbrite.com/mb/images/110x32-2.gif" border="0"/></a>
+    
+

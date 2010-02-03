@@ -1,0 +1,15 @@
+---
+layout: post
+title: "tinyurl"
+---
+<h1>tinyurl</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Just played a little with <a href="http://tinyurl.com/">tinyurl</a>.
+    
+    Used it for some <a href="http://tinyurl.com/4wv4h">gothic</a> ... or so ...
+    
+

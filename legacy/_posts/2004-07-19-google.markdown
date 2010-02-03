@@ -1,0 +1,14 @@
+---
+layout: post
+title: "google"
+---
+<h1>google</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Looks like google is starting to like this site :)
+    <a href="http://www.google.com/search?hl=en&lr=&ie=UTF-8&q=allinurl%3Acute-ninjas.com site%3Aanti.cute-ninjas.com&btnG=Search">Google Search: allinurl:cute-ninjas.com site:anti.cute-ninjas.com</a>
+    
+

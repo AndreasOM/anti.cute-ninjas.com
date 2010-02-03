@@ -1,0 +1,16 @@
+---
+layout: post
+title: "MoonEdit"
+---
+<h1>MoonEdit</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Looks like an interesting editor.
+    <a href="http://me.sphere.pl/">MoonEdit</a>
+    At least for collaboration.
+    
+    
+

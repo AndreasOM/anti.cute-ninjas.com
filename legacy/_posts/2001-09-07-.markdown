@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+---
+<h1></h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    After wrecking GKrellMMS with the last few patches,<br />
+    I made the icon add-on a standalone GKrellM plugin.<br />
+    Get <a href="http://www.webhome.de/anti/downloads/GKrellMMSi-0.1.1.tar.gz">V0.1.1</a> and tell me what you think.<br />
+

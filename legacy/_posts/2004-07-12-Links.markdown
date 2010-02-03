@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Links"
+---
+<h1>Links</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    URLs now should be "auto linked" (i.e. changed into HREFs).
+    And they should be changed into google redirections.
+    
+    Let's try:
+    http://fake.cute-ninjas.com/
+    
+    [update]
+    The autolink works, but not the google redir :(
+    
+    Let's try this:
+    <a href="http://fake.cute-ninjas.com/">Fake @ Cute-Ninjas</a>
+    
+    [update 2]
+    If you ever need WordPress Plugins try here:
+    http://wiki.wordpress.org/Plugin
+    
+

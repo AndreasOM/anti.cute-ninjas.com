@@ -1,0 +1,24 @@
+---
+layout: post
+title: "RHCA"
+---
+<h1>RHCA</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Red Hat Certified Architect
+    
+    <a href="https://www.redhat.com/training/architect/courses/">Curriculum</a>
+    
+    I did my RHCE(ngineer) last year.
+    This looks like something to go for.
+    
+    I really don't use RedHat that much ... well, not at all.
+    I'm using gentoo and debian,
+    but it's always good to see what the others are up to.
+    
+    And RHCE is on of the most wanted/best paid certifications by employers...
+    
+

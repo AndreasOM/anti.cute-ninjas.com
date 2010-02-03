@@ -1,0 +1,16 @@
+---
+layout: post
+title: "update"
+---
+<h1>update</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I think I have to redo my templates.<br />
+    They are quite old now.<br />
+    <br />
+    The good thing about wml is that you don't have to think about your content when redesigning.<br />
+    Well, a bit, but not much.
+

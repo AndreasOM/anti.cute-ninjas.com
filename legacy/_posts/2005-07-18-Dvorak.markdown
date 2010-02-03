@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Dvorak"
+---
+<h1>Dvorak</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I used to use a dvorak-keyboard layout a few years ago,
+    but never managed to map the "Umlauts".
+    
+    <a href="http://www.chaosdorf.de/~pylon/cgi-bin/blog.cgi/Computer/Dvorak/switchto_dvorak.comments">Pylon</a> has a nice layout with Umlauts.
+    
+    And there is a really nice <a href="http://www.gigliwood.com/abcd/">tutorial</a>.
+    
+    Hmmm ... seems that I still can type quite good ;)
+    
+

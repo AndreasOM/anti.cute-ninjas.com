@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Comments"
+---
+<h1>Comments</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    After reading <a href="http://www.coldforged.org/archives/2005/04/19/coldforgeds-wordpress-comment-template-deconstructed-part-1/">CF's</a> writup about his WP comment style, I just had to have it.
+    
+    Oh yeah ... I know that the sidebar on the "single" pages is broken, but I can't find where the bug is :(
+    
+

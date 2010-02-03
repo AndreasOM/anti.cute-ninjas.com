@@ -1,0 +1,16 @@
+---
+layout: post
+title: "webcam"
+---
+<h1>webcam</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I just upgraded to <a href="http://motion.technolust.cx/">motion 2.6.0</a> (from 2.5.0) and now the timestamps on the <a href="http://www.webhome.de/anti/home/cam1.jpg">living room cam</a> should be readable.<br />
+    <br />
+    I still have to work on the daily-video generation scripts, but <a href="http://rachmaninoff.informatik.uni-mannheim.de/sampeg/">sampeg</a> works like cream and has quite good picture quality.<br />
+    <br />
+    I'll keep you posted.<br />
+

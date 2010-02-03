@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Bog Spam"
+---
+<h1>Bog Spam</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Seems like some people still have lots of comment/trackback spam:
+    <a href="http://www.unix-girl.com/blog/archives/001673.html">MT Spam</a>.
+    
+    I'm glad that I didn't see any spam since the upgrade to Wordpress 1.5
+    
+    
+

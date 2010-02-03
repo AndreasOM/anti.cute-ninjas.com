@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Linuxtag 20 ..."
+---
+<h1>Linuxtag 2005 - Cell</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I started to collect the more interesting links:
+    
+    http://blogs.zdnet.com/open-source/index.php?p=350
+    
+    http://researchlab.homelinux.org/log/?p=47
+    
+    http://www.pro-linux.de/news/2005/8313.html
+    Nice pictures, but the text is totally off...
+    
+    
+

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "What's New ?"
+---
+<h1>What's New ?</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Long time no update, so here's the rundown:<br />
+    <br />
+    Purple:<br />
+    Kernel upgrade to 2.4.12.<br />
+    Memory upgrade to 256MB.<br />
+    Internal network interface upgraded to 100MB/s.<br />
+    Broken S3-Trio64 replaced by ATI Mach64VT.<br />
+    <br />
+    Green:<br />
+    Kernel -> 2.4.12<br />
+    Network IF -> 100MB/s<br />
+    <br />
+    Black:<br />
+    Kernel -> 2.4.14<br />
+    <br />
+    The <a href="http://www.webhome.de/anti/home/cam1.jpg">CAM</a> is working again.<br />
+    <br />
+    DVD:<br />
+    I bought a cheap (~$140) hardware player.<br />
+    <br />
+    Empeg:<br />
+    Upgraded to 2.0-beta3.<br />
+    <br />
+    <br />
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Opera"
+---
+<h1>Opera</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I never really like Opera (after buying an OS/2 License and never getting an OS/2 Version).
+    But this is a nice gesture:
+    <a href="http://my.opera.com/community/party/reg.dml">http://my.opera.com/community/party/reg.dml</a>
+

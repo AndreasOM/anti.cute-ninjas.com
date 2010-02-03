@@ -1,0 +1,40 @@
+---
+layout: post
+title: "empeg"
+---
+<h1>empeg</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    After a long time I finally decided to play with my empeg MKII again.
+    Well, I use it everyday,
+    but I never touched the software anymore.
+    
+    Anyway:
+    - Upgraded to 2.0 final <a href="http://www.empeg.com/cgi-bin/display.cgi?section=downloads&id=3">Developer Image</a>
+    - Upgraded <a href="http://empeg-hijack.sourceforge.net/">hijack</a> to 411
+    - Installed <a href="http://empeg.tonyc.org/emphatic/">emphatic</a> had some trouble with 2.01 so I'm now up to 2.03
+    
+    This is the display mode I'm using right now:
+    
+      &lt;display_mode name="Anti III" visual="None"&gt;
+        &lt;hscroll attr="$(artist:format=$: )$(source:format=$)$(year:format=($))" font="small" color="bright" bgcolor="transparent" y="1" x="1" width="128" speed="10" pause="0" show="ifnotempty"/&gt;
+        &lt;line attr="$(bpm:format=$)" font="small" color="bright" bgcolor="black" y="1" x="-1" width="0" show="ifnotempty" time="+00:00,10"/&gt;
+        
+        &lt;line attr="[$(ppos)/$(plength)]$( s:ifshuffled)$(!!:ifmarked)" font="small" color="bright" bgcolor="transparent" y="28" x="-1" width="0"/&gt;
+        &lt;line attr="$(trackelapsed)/$(tracklength)" font="medium" color="bright" bgcolor="transparent" y="26" x="10" width="0"/&gt;
+        
+        &lt;hscroll attr="$(title) " font="gimungous" color="bright" bgcolor="transparent" x="1" y="8" width="128" speed="10" pause="5"/&gt;
+        &lt;playerscreen blendmode="normal" burnin="false"/&gt;
+      &lt;/display_mode&gt;
+    
+    And this is what it looks like:
+    
+    <img src="http://anti.cute-ninjas.com/images/empeg_emphatic_1.png">
+    
+    I'll have to get the large font to gain some real estate to improve on this...
+    
+    
+

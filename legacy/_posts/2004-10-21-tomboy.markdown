@@ -1,0 +1,29 @@
+---
+layout: post
+title: "tomboy"
+---
+<h1>tomboy</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    An lwn.net article pointed me to
+    <a href="http://www.beatniksoftware.com/tomboy/">Tomboy</a>.
+    
+    Looks like it might solve all that problems with .txt being scattered all over my disk.
+    And when I need something I don't find it.
+    
+    
+    Just compiled and installed 0.2.2. No ebuild yet :(
+    
+    
+    I'll give it a try and let you know ... in a while.
+    
+    <div class="edit">
+    This is so tightly integrated with gnome,
+    that I couldn't get it to be usefull with enlightenment.
+    
+    Dropped for now.
+    </div>
+

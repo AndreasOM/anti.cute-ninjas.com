@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Quickies"
+---
+<h1>Quickies</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    No updates for a while.<br />
+    My entry extraction code was broken due to problems with FastTemplates and PHP4.<br />
+    It's fixed now.<br />
+    (As you can see, when you read this.)<br />
+    <br />
+    Worked on the scene <a href="http://www.webhome.de/anti/scene/members.html">members</a> and <a href="http://www.webhome.de/anti/scene/productions.html">productions.html</a> pages.<br />
+    <br />
+    Upgraded to <a href="http://motion.technolust.cx/">motion 2.6.3</a>, so the readability of the time stamps on the <a href="http://www.webhome.de/anti/home/cam1.jpg">living room cam</a> should be much better now.<br />
+    <br />
+    I'm still in Denver.<br />
+    Radix will move out next week, but he might have a replacement.<br />
+    <br />
+    My skating is gradually getting better. (Read: I fall less, but harder.)<br />
+    <br />
+

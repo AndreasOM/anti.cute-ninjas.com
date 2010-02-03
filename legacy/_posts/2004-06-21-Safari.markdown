@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Safari"
+---
+<h1>Safari</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Just let <a href="http://www.danvine.com/icapture/">iCapture</a> do a quick preview of my site in safari.
+    
+    It looks almost perfect:
+    <a href="http://anti.cute-ninjas.com/images/site/safari-2004-06-21.png"><img src="http://anti.cute-ninjas.com/images/site/th_safari-2004-06-21.png" alt="anti's world in safari" /></a>
+    
+    The navbox on the right is too big,
+    but that's going to go away very soon anyway.
+    
+

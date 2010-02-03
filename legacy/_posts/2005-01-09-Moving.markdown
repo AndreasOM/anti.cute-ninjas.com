@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Moving"
+---
+<h1>Moving</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Just switched to a new server. (Cheaper and more reliable.)
+    
+    Almost all domains are moved.
+    
+    This is just a short reminder to myself which sites still need to be moved:
+    
+    stoned.cute-ninjas.com <font color="red">[2005-01-12] Moved.</font>
+    stoned.webhome.de <font color="red">[2005-01-12] Moved.</font>
+    football-forum.de <font color="red">[2005-01-12] Moved.</font>
+    cute-ninjas.com <font color="red">[2005-01-12] Moved.</font>
+    webhome.de <font color="red">[2005-01-19] Moved.</font>
+    
+    webhome.nu  <font color="red">[2005-01-19] Moving...</font>
+    
+    desaintpaul.de (including all subdomains)
+    
+    Moved but needs fixing:
+    biker-forum.com (move database) <font color="red">[2005-01-12] Database moved.</font>
+    
+    Other stuff needed:
+    Move CVS.
+    Move SVN.
+    Move /home
+    
+    <div class="edit">
+    Will add fixes in <font color="red">red</font>.
+    </div>
+

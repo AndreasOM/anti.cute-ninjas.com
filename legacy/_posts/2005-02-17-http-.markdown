@@ -1,0 +1,28 @@
+---
+layout: post
+title: "http ?"
+---
+<h1>http ?</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I stumbled across this a few times.
+    
+    When I enter <a href="http://http://www.google.de/">http://http://www.google.de/</a> into my location bar (or click a link containing the double http://) I end up at ...
+    
+    ... just wait.
+    Why would anybody do this anyway ?
+    Well, some webforms prepend http:// if you enter an URL (and tell you to ommit it),
+    but they don't check if you already prepended it.
+    
+    So that site gets a lot of traffic.
+    
+    And the winner is ?
+    
+    microsoft.com
+    
+    I'm not sure (yet) why, but I'm sure you will tell me...
+    
+

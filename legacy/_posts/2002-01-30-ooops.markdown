@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ooops"
+---
+<h1>ooops</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    forgot to dump the database on the old system.<br />
+    chroot is your friend ;)<br />
+    <br />
+    New system up and running.<br />
+    DSL working.<br />
+    dyndns updater working.<br />
+    Apache OK.<br />
+    mysql OK.<br />
+    squid OK.<br />
+    bind OK.<br />
+    <br />
+    Hey it's almost back to 100%.<br />
+    At least nobody will really notice the difference.<br />
+    <br />
+    I still have to fix exim (or maybe postfix),<br />
+    since my dynamic IP is listed at mail-abuse.org and sourceforge is using that blacklist :(<br />
+

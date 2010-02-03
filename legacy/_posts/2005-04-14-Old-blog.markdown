@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Old blog"
+---
+<h1>Old blog</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    The new (Wordpress 1.5) blog is looking so good,
+    that the <a href="http://anti.cute-ninjas.com/wp/">old blog</a> will be disabled soon.
+

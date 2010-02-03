@@ -1,0 +1,32 @@
+---
+layout: post
+title: "hacked"
+---
+<h1>hacked</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Argl. Stupid me.
+    
+    Here is what I could reconstruct:
+    
+    1. I had OpenSSH 3.7 running.
+    2. I had iptables set up to only allow connections from certain hosts.
+    3. I used my DSL to connect to the internet.
+    
+    4. I upgraded my kernel to 2.6.7 last week.
+    5. I forgot to enable the iptables module
+    
+    6. Intruder used ssh exploit to gain access.
+    
+    7. Intruder abused my system as an xmule/edonkey relay with a high speed connection.
+    
+    I would have never noticed if not our "site security" had noticed the strange behaviour of my system.
+    (Loads and loads of TCP SYN)
+    
+    
+    I might get into real trouble this time :(
+    
+

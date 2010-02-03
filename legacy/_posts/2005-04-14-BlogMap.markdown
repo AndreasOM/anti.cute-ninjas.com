@@ -1,0 +1,14 @@
+---
+layout: post
+title: "BlogMap"
+---
+<h1>BlogMap</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I know, I'm playing around with my blog far too much.
+    
+    <div><script lang="javascript" src="http://www.feedmap.net/blogmap/blogapi.ashx?method=neighblogbadge&feed=http://anti.cute-ninjas.com/news/feed/"></script></div>
+

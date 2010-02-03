@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Mac Mini"
+---
+<h1>Mac Mini</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    All Mac related stuff will from now on go into it's own blog.
+    
+    Gotta keep things clean ... you know.
+    
+    <a href="http://anti.cute-ninjas.com/mac/index.php">Mac Blog</a>
+

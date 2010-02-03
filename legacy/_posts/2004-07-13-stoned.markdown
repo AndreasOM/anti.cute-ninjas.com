@@ -1,0 +1,22 @@
+---
+layout: post
+title: "stoned"
+---
+<h1>stoned</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Just wanted to say that
+    <a href="http://stoned.cute-ninjas.com/">stoned</a>
+    is not dead.
+    
+    If you want one of the best curling simulations around,
+    go and get it.
+    
+    Linux and Windows client fully working.
+    OSX client in the queue...
+    
+    
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Google"
+---
+<h1>Google</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Google has
+    <a href="http://http://www.google.com/search?hl=en&lr=&c2coff=1&q=allinurl%3Aanti.cute-ninjas.com+site%3Aanti.cute-ninjas.com&btnG=Search">388 indexed pages</a>
+    with
+    <a href="http://http://www.google.com/search?hl=en&lr=&c2coff=1&q=link%3Aanti.cute-ninjas.com&btnG=Search">0 incoming links</a>
+    for this site.
+    
+

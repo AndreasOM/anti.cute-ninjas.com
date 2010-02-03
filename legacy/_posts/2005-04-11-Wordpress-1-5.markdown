@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Wordpress 1.5"
+---
+<h1>Wordpress 1.5</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    I switched some/most of my others sites to Wordpress 1.5 already.
+    This one is next.
+    
+    1.5 is really that much better.
+    
+    Only thing left to do is to write the theme/style and I don't have the nerve to hack up CSS right now ;)
+    
+

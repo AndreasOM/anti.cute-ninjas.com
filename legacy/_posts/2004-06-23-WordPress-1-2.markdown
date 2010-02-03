@@ -1,0 +1,15 @@
+---
+layout: post
+title: "WordPress 1.2"
+---
+<h1>WordPress 1.2</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    <a href="http://wordpress.org/development/archives/2004/05/22/heres-the-beef/">WordPress 1.2</a> has just been released.
+    
+    I'll try to upgrade soon...
+    
+

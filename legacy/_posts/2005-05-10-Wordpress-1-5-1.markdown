@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Wordpress 1 ..."
+---
+<h1>Wordpress 1.5.1</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    The guys are simply to fast for me:
+    <a href="http://wordpress.org/development/2005/05/one-five-one/">Wordpress 1.5.1</a>
+    
+    The security update and the improved SQL queries alone should make this upgrade worth the effort.
+    I hope the upgrade is quicker than the last one.
+    I have to upgrade over a dozen blogs...
+    
+

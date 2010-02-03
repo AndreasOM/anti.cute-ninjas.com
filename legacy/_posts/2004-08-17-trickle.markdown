@@ -1,0 +1,20 @@
+---
+layout: post
+title: "trickle"
+---
+<h1>trickle</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    One of the tools I really like,
+    but always forget the name of when I really need it.
+    
+    trickle - a lightweight userspace bandwidth shaper
+    
+    'nuff said.
+    
+    <a href="http://monkey.org/~marius/pages/?page=trickle">trickle</a>
+    
+

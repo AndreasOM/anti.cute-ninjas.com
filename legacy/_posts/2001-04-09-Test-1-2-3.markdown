@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Test - 1 -  ..."
+---
+<h1>Test - 1 - 2 - 3</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    If you can read this the news/events scripts work perfectly.<br />
+    This item has been entered through loserjabber (patched version) and added via wget and wml.<br />
+    <br />
+

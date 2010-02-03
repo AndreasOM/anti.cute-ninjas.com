@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Video"
+---
+<h1>Video</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    People everywhere are complaining that the Mac Mini would make the perfect "set top box" or "home media center"
+    if it only had a video/tv capture card.
+    
+    I just don't get it.
+    
+    You got this really cute video playing device and a broadband connection.
+    When will you actually watch TV ?
+    
+    Just download the stuff (legally) from the web. <em>iMovies</em> anyone ?
+    
+    Oh, you want to capture your selfmade videos ?
+    Hmmm ... put one end of a FireWire cable into your cam and the other into the Mac Mini.
+    Any problem ?
+    
+    Stop complaining.
+    
+    The only thing really missing for this thing is a big harddisk...
+    ... wait a minute. That's connected to the WiFi-Broadband-DSL-Router-Printer-Server anyway.
+    
+    Now I only need a cute little (bluetooth) iRemote.
+    
+

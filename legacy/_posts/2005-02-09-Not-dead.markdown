@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Not dead"
+---
+<h1>Not dead</h1>
+(This post was autoconverted from the old news system,
+it might look a little ... ugly until I find the time
+to clean it up.
+Sorry!)
+
+    Well, not really, but kind of.
+    
+    Just "fixed" the deliciousizer.
+    It seemed a good idea to add the post id to the tags.
+    It wasn't.
+    Now I got thousands of tags ....
+    
+    It's gone.
+    Now I only have to clean up the old posts...
+    
+
