@@ -3,6 +3,7 @@ layout: default
 title: Anti's World - Welcome
 ---
 
+{% if paginator.page == 1 %}
 <article class="itembox">
 	<div class="boxheader">
 		Info
@@ -14,7 +15,6 @@ title: Anti's World - Welcome
 		(Just playing with CVS -> GIT....)<br>
 	</div>
 </article>
-
 <article class="itembox">
 	<div class="boxheader">
 		Cams
@@ -23,6 +23,15 @@ title: Anti's World - Welcome
 		<a href="/home/cam1.jpg"><img src="/home/minicam1.jpg" alt="1 - Living Room" width="88" height="72"></a><br>
 	</div>
 </article>
+<article class="itembox">
+        <div class="boxheader">
+                Twitter
+        </div>
+        <div class="boxcontent">
+                {% include twitter.html %}
+        </div>
+</article>
+{% endif %}
 
 {% for item in paginator.posts %}
 {% include item_post.html %}
@@ -50,6 +59,14 @@ title: Anti's World - Welcome
 	{% endif %}
 	</div>
 	</div>
+	</div>
+</article>
+<article class="itembox">
+	<div class="boxheader">
+		Twitter
+	</div>
+	<div class="boxcontent">
+		{% include twitter.html %}
 	</div>
 </article>
 
