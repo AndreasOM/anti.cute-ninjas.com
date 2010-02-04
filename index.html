@@ -20,17 +20,36 @@ title: Anti's World - Welcome
 		Cams
 	</div>
 	<div class="boxcontent">
-		<a href="home/cam1.jpg"><img src="home/minicam1.jpg" alt="1 - Living Room" width="88" height="72"></a><br>
+		<a href="/home/cam1.jpg"><img src="/home/minicam1.jpg" alt="1 - Living Room" width="88" height="72"></a><br>
 	</div>
 </article>
 
-{% for item in site.posts limit:6 %}
+{% for item in paginator.posts %}
 {% include item_post.html %}
 {% endfor %}
 
 <article class="itembox">
+	<div class="boxheader">
+		More...
+	</div>
 	<div class="boxcontent">
-		more/older <a href="events/">news and events</a>
+	<div class="leftright">
+	<div class="left">
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+			<a class="pagination newer" href="/" title="newer">&larr; Newer Entries </a>
+		{% else %}
+			<a class="pagination older" href="/page{{ paginator.previous_page }}/index.html" title="newer">&larr; Newer Entries</a>
+		{% endif %}
+	{% endif %}
+	&nbsp;
+	</div>
+	<div class="right">
+	{% if paginator.next_page %}
+		<a class="pagination" href="/page{{ paginator.next_page }}/index.html" title="older">Older Entries &rarr;</a>
+	{% endif %}
+	</div>
+	</div>
 	</div>
 </article>
 

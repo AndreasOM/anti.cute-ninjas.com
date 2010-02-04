@@ -1,4 +1,5 @@
 LSI: true
 pygments: true
 permalink:  pretty
-
+paginate: 10
+markdown: rdiscount

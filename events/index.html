@@ -2,15 +2,42 @@
 layout: default
 title: Anti's World - Welcome
 ---
+{% assign _year = -1 %}
+{% assign _month = -1 %}
 
-{% for post in site.posts %}
 <article class="itembox">
 	<div class="boxheader">
+		Archive
+	</div>
+	<div class="boxcontent">
+{% for post in site.posts %}
+{% capture _postYear %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture _postMonth %}{{ post.date | date: "%m" }}{% endcapture %}
+{% if _postMonth != _month %}
+	{% assign _month = _postMonth %}
+	{% if _count > 0 %}
+		{{ _count }}
+	{% endif %}
+	{% assign _count = 0 %}
+	{% if _postYear != _year %}
+	{% assign _year = _postYear %}
+	</div>
+</article>
+<article class="itembox">
+	<div class="boxheader">
+		{{ _year }}
+	</div>
+	<div class="boxcontent">
+	{% endif %}
+{% endif %}
+{{ _postMonth }}/{{ _postYear }}
+	<div>
 		<span class="postsubject"><a href="{{ post.url }}">{{ post.title }}</a></span>
 		<span class="postdate">Posted on {{ post.date | date_to_long_string }}</span>
 	</div>
-	<div class="boxcontent">
-	{{ post.content }}
+	{% assign _count = _count +1 %}
+<br />
+{% endfor %}
 	</div>
 </article>
-{% endfor %}
+

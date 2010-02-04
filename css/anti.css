@@ -68,3 +68,20 @@
 .postdate {
 	text-align: right;
 }
+
+div.leftright{
+	position: relative;
+	height: 20px;
+}
+div.left {
+	text-align: left;
+	display: block;
+	float: left;
+}
+
+div.right {
+	text-align: right;
+	display: block;
+	float: right;
+}
+
