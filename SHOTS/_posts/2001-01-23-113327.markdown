@@ -5,7 +5,7 @@ shot: 01-01-23_113327.png
 ---
 
 This is the last shot of my old window-manager (afterstep)
-with my [blueish](/afterstep/themes/blueish) theme.
+with my [blueish](/legacy/afterstep/themes/blueish/) theme.
 
 This theme was the base for a long row of improvements.
 

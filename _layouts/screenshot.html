@@ -2,6 +2,7 @@
 layout: default
 ---
 
-{% assign item = page %}
+{% capture _facebookShare %}{% include facebook-share.html %}{% endcapture %}
+{% capture _facebookComment %}{% include facebook-comment.html %}{% endcapture %}
 {% include item_screenshot.html %}
 

@@ -1,15 +1,39 @@
 <article class="itembox">
 	<div class="boxheader">
-		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span><br />
-		<span class="postdate">Posted on {{ item.date | date_to_long_string }}</span>
+	{% if item %}
+		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span><br/>
+		<span class="postdate">Posted on {{ item.date | date_to_long_string }}
+		{% if item.time %}
+		at {{ item.time }}
+		{% endif %}
+		</span>
+	{% else %}
+		<span class="postsubject"><a href="{{ page.url }}">{{ page.title }}</a></span><br/>
+		<span class="postdate">Posted on {{ page.date | date_to_long_string }}
+		{% if page.time %}
+		at {{ page.time }}
+		{% endif %}
+		</span>
+	{% endif %}
+	<div>
+	{% if _facebookShare %}
+	{{ _facebookShare }}
+	{% endif %}
+	</div>	
 	</div>
 	<div class="boxcontent">
 		<table>
 		<tr>
 		<td>
+	{% if item %}
 			<a href="/images/SHOTS/full_shot_{{ item.shot }}">
 			<img src="/images/SHOTS/thumb_shot_{{ item.shot }}" />
 			</a>
+	{% else %}
+			<a href="/images/SHOTS/full_shot_{{ page.shot }}">
+			<img src="/images/SHOTS/thumb_shot_{{ page.shot }}" />
+			</a>
+	{% endif %}
 		</td>
 		<td>
 			&nbsp;
