@@ -15,6 +15,11 @@
 		{% endif %}
 		</span>
 	{% endif %}
+	<div>
+	{% if _facebookShare %}
+	{{ _facebookShare }}
+	{% endif %}
+	</div>
 	</div>
 	<div class="boxcontent">
 	{% if item.content %}
@@ -22,5 +27,11 @@
 	{% else %}
 	{{ content }}
 	{% endif %}
+	<div>
+	{% if _facebookComment %}
+	Comment:
+	{{ _facebookComment }}
+	{% endif %}
+	</div>
 	</div>
 </article>
