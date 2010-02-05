@@ -23,8 +23,16 @@
 	</div>
 	<div class="boxcontent">
 	{% if item.content %}
+		{% if item.shot %}
+			<a href="/images/SHOTS/full_shot_{{ item.shot }}">
+			<img src="/images/SHOTS/thumb_shot_{{ item.shot }}" />
+			</a>
+		{% endif %}
 	{{ item.content }}
 	{% else %}
+			<a href="/images/SHOTS/full_shot_{{ page.shot }}">
+			<img src="/images/SHOTS/thumb_shot_{{ page.shot }}" />
+			</a>
 	{{ content }}
 	{% endif %}
 	<div>
