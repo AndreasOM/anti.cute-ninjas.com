@@ -11,10 +11,10 @@ title: Anti's World - Welcome
 	<div class="boxcontent">
 		This is just my (=anti's) homepage. Nothing fancy here.<br>
 		I just use it to test new stuff;<br>
-		And keep myself uptodate of what I'm up to.<br>
-		(Just playing with CVS -> GIT....)<br>
+		And keep myself up-to-date of what I'm up to.<br>
 	</div>
 </article>
+{% if nil %}
 <article class="itembox">
 	<div class="boxheader">
 		Cams
@@ -27,11 +27,13 @@ title: Anti's World - Welcome
 	<div class="boxheader">
 		Social Networks
 	</div>
-	<div class="boxcontent">
+	<div class="boxcontent social">
 		{% include twitter.html %}
 		{% include facebook.html %}
 	</div>
 </article>
+<div class="clear"></div>
+{% endif %}
 {% endif %}
 
 {% for item in paginator.posts %}

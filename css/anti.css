@@ -85,3 +85,49 @@ div.right {
 	float: right;
 }
 
+section#social {
+}
+section#facebook {
+	width: 100%;
+	border: 1px solid green;
+}
+
+ul#twitter-anti666 {
+	list-style-type: none;
+	padding-left: 0;
+	display: block;
+	border: 1px solid green;
+	background: #99ccff;
+}
+
+ul#twitter-anti666 li {
+}
+
+ul#twitter-anti666 span {
+	border: 1px solid green;
+	display: block;
+}
+
+ul#twitter-anti666 a {
+	position: relative;
+}
+
+ul#twitter-anti666 a span {
+	display: none;
+}
+
+ul#twitter-anti666 a:hover span {
+	display: block;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	padding: 2px;
+	margin: 2px;
+	z-index: 100;
+	text-align: center;
+	text-decoration: none;
+	border: 1px solid #3366ff;
+	background: #99ccff;
+	xxxwidth: 300px;
+}
+

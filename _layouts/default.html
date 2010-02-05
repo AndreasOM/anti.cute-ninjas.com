@@ -9,18 +9,21 @@
 		<title>{{ page.title }}</title>
 	</head>
 <body>
-	<div id="wrapper" class="container_12">
-		<header id="header" class="grid_12">
+	<div id="wrapper" class="container_16">
+		<header id="header" class="grid_16">
 			<img src="/images/anti.png" alt="">
 		</header>
-		<section id="main" class="grid_12">
+		<section id="main" class="grid_16">
 			<section id="nav" class="grid_3 alpha">
 				{% include menu.html %}
 			</section>
-			<section id="content" class="grid_9 omega">
+			<section id="content" class="grid_10">
 				<div>
 					{{ content }}
 				</div>
+			</section>
+			<section id="content" class="grid_3 omega">
+				{% include social.html %}
 			</section>
 		</section>
 	</div>
