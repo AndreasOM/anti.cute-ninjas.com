@@ -1,0 +1,19 @@
+---
+layout: screenshot
+title: Screenshot Automagic 2
+shot: 01-01-19_115543.png
+---
+
+[**Note:** I'm writing these lines in 2010, since the original shot hat no description!]
+
+I was still working on the [screenshot tool](/SHOTS/2001/01/18/141432/).
+
+As you can see in the background (upper left) I did quite some testing.
+
+In the other terminal (lower left) it looks like I'm transfering an ISO for a debian install CD.
+(Nevermind the "mp3_real" directory, that was only my CD collection.)
+
+In the texteditor ([SciTE](http://www.scintilla.org/SciTE.html)) you can see that even back then I
+used a statically generated website (check [WML](http://thewml.org/)).
+I guess everything goes in circles.
+
