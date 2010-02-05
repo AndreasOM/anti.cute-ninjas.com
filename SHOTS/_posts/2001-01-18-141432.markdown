@@ -1,5 +1,15 @@
 ---
 layout: screenshot
+title: Screenshot Automagic
 shot: 01-01-18_141432.png
 ---
+
+[**Note:** I'm writing these lines in 2010, since the original shot hat no description!]
+
+Back in 2001 I was still using Perl for most of my scripting.
+
+This seems to be one of the first screenshots done by my "automagic"
+screenshot, tagging and upload utility.
+
+Looking back I think I was way ahead of my time.
 

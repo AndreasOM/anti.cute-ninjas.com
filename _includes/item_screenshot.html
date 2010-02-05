@@ -1,6 +1,6 @@
 <article class="itembox">
 	<div class="boxheader">
-		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span>
+		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span><br />
 		<span class="postdate">Posted on {{ item.date | date_to_long_string }}</span>
 	</div>
 	<div class="boxcontent">
@@ -13,7 +13,11 @@
 		</td>
 		<td>
 			&nbsp;
+			{% if item.content %}
+			{{ item.content }}
+			{% else %}
 			{{ content }}
+			{% endif %}
 		</td>
 		</tr>
 		</table>

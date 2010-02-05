@@ -62,11 +62,10 @@
 }
 
 .postsubject {
-	text-align: left;
 }
 
 .postdate {
-	text-align: right;
+	font-size: small;
 }
 
 div.leftright{

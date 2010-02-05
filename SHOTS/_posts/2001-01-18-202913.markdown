@@ -1,5 +1,6 @@
 ---
 layout: screenshot
+title: Desktop Background done in Gimp
 shot: 01-01-18_202913.png
 ---
 

@@ -1,14 +1,14 @@
 <article class="itembox">
 	<div class="boxheader">
 	{% if item %}
-		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span>
+		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span><br/>
 		<span class="postdate">Posted on {{ item.date | date_to_long_string }}
 		{% if item.time %}
 		at {{ item.time }}
 		{% endif %}
 		</span>
 	{% else %}
-		<span class="postsubject"><a href="{{ page.url }}">{{ page.title }}</a></span>
+		<span class="postsubject"><a href="{{ page.url }}">{{ page.title }}</a></span><br/>
 		<span class="postdate">Posted on {{ page.date | date_to_long_string }}
 		{% if page.time %}
 		at {{ page.time }}

@@ -3,5 +3,14 @@ layout: post
 ---
 Almost forgot to tell you.<br>
 <br>
-I finally switched to a real <a href="wp/">"news system"</a>.
+I finally switched to a real <u>"news system"</u>.
+
+**Edit:**  
+I removed the link to the "real new news system",  
+since that obviously doesn't exist anymore.
+
+It was a wordpress 1.x (x<5) installation,  
+that I was using until the [switch to wordpress 1.5](/2005/09/13/News/).
+
+Which was in turn [replaced by jekyll](/2010/01/29/Switching-To-Jekyll/).
 

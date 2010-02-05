@@ -3,5 +3,13 @@ layout: post
 title: News
 ---
 
-Well, the <a href="news/">real new news system</a> has replaced the old one long ago...
+Well, the <u>real new news system</u> has replaced the old one long ago...
+
+**Edit:**  
+I removed the link to the "real new news system",  
+since that obviously doesn't exist anymore.
+
+It was a wordpress 1.5 installation,  
+that I was using until the [switch to jekyll](/2010/01/29/Switching-To-Jekyll/).
+
 
