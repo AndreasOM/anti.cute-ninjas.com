@@ -1,0 +1,16 @@
+---
+layout: screenshot
+title: New Screenshot Script
+shot: 01-04-19_155306.png
+---
+
+This is me learning Gtk+Perl again.
+
+In the upper right corner is the dialog that is opened when I click on the clock in my GKrellm.
+
+**Note:**
+This whole setup including the script was lost during my big harddisk crash :(
+
+[**Edit:** added in 2010]
+ I had a big harddisk crash in 2002 and managed to overwrite the backups with the data from the broken disk.
+Since the my backup strategy has been improved a lot ;)

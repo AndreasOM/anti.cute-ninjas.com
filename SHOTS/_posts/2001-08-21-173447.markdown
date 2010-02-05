@@ -1,0 +1,25 @@
+
+---
+layout: screenshot
+title: XB9R
+shot: 01-08-21_173447.png
+---
+
+I like the new Buell.
+
+Tried to compile light, but that seems to need Mozilla compiled by hand. 
+So I did that over at Blue (much faster) and wget-ed the result. (hmmm... 106%??)
+
+**Note:** Added on February 6th 2010
+Blue was on of the first servers I owned.  
+Back then I started to spray paint the cases of the PCs  
+and named the systems after their color.
+
+The first few ...  as I remember:
+* Blue
+* Green
+* Red
+* Yellow
+* White (G4 Mac Book, still in use by Kathrin)
+* Platinum (Quad Core Vista System with 1TB RAID5 and 4GB of RAM. My Windows system and thus almost always off.)
+* Snow (Well, white was taken, my MacBook, still in use by me. I'm typing this on it right now)

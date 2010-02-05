@@ -1,0 +1,13 @@
+---
+layout: screenshot
+title: Website Redesign
+shot: 01-02-07_171215.png
+---
+
+[**Note:** I'm writing these lines in 2010, since the original shot hat no description!]
+
+Wow, this was 2001 and the design is almost where it is today.
+
+* The site generation was automatic.
+* "Blogging" could be done via email.
+* Screenshoting, commenting, uploading and integrating into site was automagic.
