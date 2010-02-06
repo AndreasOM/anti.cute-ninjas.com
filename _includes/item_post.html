@@ -30,9 +30,11 @@
 		{% endif %}
 	{{ item.content }}
 	{% else %}
+		{% if page.shot %}
 			<a href="/images/SHOTS/full_shot_{{ page.shot }}">
 			<img src="/images/SHOTS/thumb_shot_{{ page.shot }}" />
 			</a>
+		{% endif %}
 	{{ content }}
 	{% endif %}
 	<div>
