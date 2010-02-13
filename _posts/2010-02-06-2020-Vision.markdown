@@ -3,6 +3,18 @@ layout: post
 time: "23:03"
 title: 2020 Vision
 ---
+# Note #
+
+I'm not happy how this article turned out.  
+The core messages are there and nearly correct,  
+but they feel watered down a little.
+
+And the story simply doesn't work as expected.
+
+I'll rewrite this.
+
+# Original #
+
 Just recently my sight went below 20/20.  
 I used to have 20/8 sight when I was younger  
 and it slowely went down to 20/20 over the last few years.
