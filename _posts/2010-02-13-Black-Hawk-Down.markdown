@@ -27,7 +27,7 @@ You don't agree?
 When the troops entered mogadishu they did so without an UN mandate and even without checking or informing their allies.  
 They did so to kill Aidid. Not to extract and bring to justice. No, just to kill.
 
-If I took 20 soldiers and entered texas to kill George W. Bush you would probably kill that an invasion.  
+If I took 20 soldiers and entered texas to kill George W. Bush you would probably call that an invasion.  
 It doesn't matter how many people Aidid killed.  
 The mission was an invasion.
 
@@ -48,23 +48,23 @@ I could go on and on, but I guess you just have to watch the movie to think "the
 # Colored people are evil
 (Not my message! The one of the movie.)
 
-So these somalian civilist get attacked by US soldiers without reason and start firing back.  
-That's evil. If you are shot by a well feed, clean dressed US solider, you better die!  
+So these somalian civilians get attacked by US soldiers without reason and start firing back.  
+That's evil. If you are shot by a well feed, clean dressed US soldier, you better die!  
 Don't protect your life or your family.
 
-In one scene one of the solidiers shoots an unarmed civilian without any reason.  
+In one scene one of the soldiers shoots an unarmed civilian without any reason.  
 What's the point?  
-I work for the good side, everything I do is right?
+"I work for the good side, everything I do is right"?
 
 
 # 19 americans are worth more than 1000 somalians
 In the trailer each of the 19 dead soldiers is glorified.  
-The 1000 dead civilians are mentioned in a single line.
+The 1000 dead civilians are mentioned as a sidenote in a single line.
 
 # Conclusion
 I wonder why a movie like this runs on television.  
 Showing this to any under 18 year old should be considered a crime.
-Showing this at all should be considered stupid.
+Showing this at all is stupid.
 
 # Questions?
 * The somalians had weapons, they must be evil ... or?  
