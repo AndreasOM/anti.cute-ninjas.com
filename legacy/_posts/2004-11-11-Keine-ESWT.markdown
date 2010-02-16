@@ -10,13 +10,13 @@ Sorry!)
 
     Nach der Blutabnahme und der TRUS stellte sich heraus das die Membrane der Maschine ein Leck hatte :(
     
-    Nächste Woche neuer Versuch...
+    NÃ¤chste Woche neuer Versuch...
     
-    Samstag hatte ich übrigends endlich "das Buch" in der Hand:
+    Samstag hatte ich Ã¼brigends endlich "das Buch" in der Hand:
     <a href="http://www.amazon.de/exec/obidos/ASIN/097277551X/webhome00d/">A Headache in the Pelvis</a>
     Wer Probleme mit chronischer Prostatitis bzw. CPPS hat,
     sollte dieses Buch auf jeden Fall lesen.
     
-    Montag hatte ich das Buch dann durch. Und alleine das Wissen, daß es eine Lösung gibt hat schon geholfen.
+    Montag hatte ich das Buch dann durch. Und alleine das Wissen, daÃŸ es eine LÃ¶sung gibt hat schon geholfen.
     
 

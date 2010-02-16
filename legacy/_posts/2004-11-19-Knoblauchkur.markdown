@@ -8,16 +8,16 @@ it might look a little ... ugly until I find the time
 to clean it up.
 Sorry!)
 
-    <strong>Beseitigung von Verkalkung und Übersäuerung mit Zitronen-Knoblauchtrunk</strong>
+    <strong>Beseitigung von Verkalkung und ÃœbersÃ¤uerung mit Zitronen-Knoblauchtrunk</strong>
     
     Zubereitung:
-    30 geschälte Knoblauchzehen, 3 reife, unbehandelte Zitronen (mit Schale in Streifen schneiden) durch Wolf/Mixer. Mit 1 Liter Wasser langsam zum Kochen bringen (1x aufwallen lassen). Nach Erkalten abseihen, Saft in Flasche füllen.
+    30 geschÃ¤lte Knoblauchzehen, 3 reife, unbehandelte Zitronen (mit Schale in Streifen schneiden) durch Wolf/Mixer. Mit 1 Liter Wasser langsam zum Kochen bringen (1x aufwallen lassen). Nach Erkalten abseihen, Saft in Flasche fÃ¼llen.
     
-    täglich 1 Likörgläschen, 2 Stunden vor oder nach den Hauptmahlzeiten.
+    tÃ¤glich 1 LikÃ¶rglÃ¤schen, 2 Stunden vor oder nach den Hauptmahlzeiten.
     
-    3 Wochen dieser Knoblauchmedizin führen zu einer jugendlich-wohligen Regeneration des ganzen Organismus. Verkalkungen und deren Nebenerscheinungen (wie auch schlechtes Sehen oder Hören) gehen zurück und beginnen ganz zu verschwinden. Nach 3 Wochen eine Pause von 8 Tagen, dann 2. Kur.
+    3 Wochen dieser Knoblauchmedizin fÃ¼hren zu einer jugendlich-wohligen Regeneration des ganzen Organismus. Verkalkungen und deren Nebenerscheinungen (wie auch schlechtes Sehen oder HÃ¶ren) gehen zurÃ¼ck und beginnen ganz zu verschwinden. Nach 3 Wochen eine Pause von 8 Tagen, dann 2. Kur.
     
-    Diese ist in der Regel von durchschlagendem Erfolg begleitet. Am zweckmäßigsten jedes Jahr 2 Kuren von je 3 Wochen. Die Wirkungskräfte des Knoblauch kommen dabei restlos zur Geltung und kein Mensch verspürt etwas von dem unangenehmen Duft. Auch bei Gebißverfall, Paradontose bestens bewährt.
+    Diese ist in der Regel von durchschlagendem Erfolg begleitet. Am zweckmÃ¤ÃŸigsten jedes Jahr 2 Kuren von je 3 Wochen. Die WirkungskrÃ¤fte des Knoblauch kommen dabei restlos zur Geltung und kein Mensch verspÃ¼rt etwas von dem unangenehmen Duft. Auch bei GebiÃŸverfall, Paradontose bestens bewÃ¤hrt.
     <em>(aus www.wissenschaft-unzensiert.de/med1/14.htm bzw. "Die Woche" Nr. 50 1999)</em>
     
 

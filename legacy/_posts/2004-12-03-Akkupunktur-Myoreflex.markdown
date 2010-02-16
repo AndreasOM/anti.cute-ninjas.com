@@ -13,8 +13,8 @@ Sorry!)
     Lag' wohl 40 Minuten da, ohne es zu merken.
     
     Heute Myoreflex Therapie.
-    F¸hle mich gerade recht gut,
-    aber das Gef¸hl in der Blase ist immer noch falsch.
+    F√ºhle mich gerade recht gut,
+    aber das Gef√ºhl in der Blase ist immer noch falsch.
     
     
     Ach ja,
@@ -24,6 +24,6 @@ Sorry!)
     ----> Kein Rindfleisch!
     
     <div class="edit">
-    Bei n‰herer Betrachtung war in dem Essen auch noch eine winzige Menge Meerettich...
+    Bei n√§herer Betrachtung war in dem Essen auch noch eine winzige Menge Meerettich...
     </div>
 

@@ -14,10 +14,10 @@ Sorry!)
     aber danach ging's mir nicht schlechter.
     
     Beim Proktologen kam nicht wirklich etwas heraus.
-    Der Polyp im Enddarm ist nicht auffällig.
+    Der Polyp im Enddarm ist nicht auffÃ¤llig.
     
-    Mein Heilpraktiker hat mich richtig weich ge"drückt".
+    Mein Heilpraktiker hat mich richtig weich ge"drÃ¼ckt".
     Das ist das einzige was im Moment wirklich weiterhilft.
-    Das dafür aber deutlich.
+    Das dafÃ¼r aber deutlich.
     
 

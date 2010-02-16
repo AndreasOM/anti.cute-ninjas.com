@@ -11,15 +11,15 @@ Sorry!)
     Hab' am Montag noch 'ne Heilpraktikering gefunden die Myoreflex anbietet.
     Hab' dann auch direkt nachmittags noch einen Notfall Termin bekommen.
     
-    Das war nötig.
+    Das war nÃ¶tig.
     Hat schonmal etwas geholfen.
     
     Abends dann meine letzte ESWT. Mal abwarten.
     
     Dienstag Nachmittag dann wieder Akkupunktur.
-    Auch die letzte ... für dieses Jahr.
+    Auch die letzte ... fÃ¼r dieses Jahr.
     
-    Lasse mich morgen mal intensiv auf Allergien untersuchen und habe nächste Woche 'nen Termin 
+    Lasse mich morgen mal intensiv auf Allergien untersuchen und habe nÃ¤chste Woche 'nen Termin 
     in der Tropenklinik. Evtl. habe ich mir ja doch irgendwas eingefangen.
     
     Werde auch mal anfangen mit Sparen,

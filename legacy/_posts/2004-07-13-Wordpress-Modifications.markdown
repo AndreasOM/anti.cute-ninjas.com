@@ -9,7 +9,7 @@ to clean it up.
 Sorry!)
 
     Some of these
-    <a href="http://weblog.burningbird.net/archives/2004/07/07/wordpress-modifications/fulltext/">Burningbird » Wordpress Modifications</a> are really worth to be considered here.
+    <a href="http://weblog.burningbird.net/archives/2004/07/07/wordpress-modifications/fulltext/">Burningbird Â» Wordpress Modifications</a> are really worth to be considered here.
     
     I might implement a few of them soon...
     

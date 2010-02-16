@@ -14,7 +14,7 @@ Sorry!)
     Das schlimmste war dieValium-Spritze in den Arm.
     Hatte mich aber auch super entspannt.
     
-    Die Blase ist wohl ziemlich stark entzündet, was ja zu den ursprünglichen Symptomen passen würde.
+    Die Blase ist wohl ziemlich stark entzÃ¼ndet, was ja zu den ursprÃ¼nglichen Symptomen passen wÃ¼rde.
     Nehme jetzt erstmal 7-10 Tage <em><strong>Nintrofurantoin retard-ratiopharm</strong></em>.
     Das soll sehr gut gegen Harnwegsinfektionen wirken und den Magen&Darm kaum belasten.
     

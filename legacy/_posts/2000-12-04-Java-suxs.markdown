@@ -1,0 +1,14 @@
+---
+layout: post
+title: Java suxs
+time: "11:21"
+---
+
+[ how I feel | confused ]
+
+Why ?
+If I start the Java code directly and call native code everything works.
+When I start the JVM from native code, call java code and then call (the same) native code the stack (and thus the parameters) are trashed.
+But only if I pass a jlong.....
+
+[Original Post](http://users.livejournal.com/__anti/806.html)

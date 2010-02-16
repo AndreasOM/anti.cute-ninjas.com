@@ -17,12 +17,12 @@ Sorry!)
     Ergebniss ?
     Kerngesund...
     
-    Aber seit der Darmspülung geht es wenigstens meinem Darm/Bauch etwas besser.
+    Aber seit der DarmspÃ¼lung geht es wenigstens meinem Darm/Bauch etwas besser.
     
     Hatte gestern meine 3. ESWT und seit dem geht es auch dem Rest deutlich besser.
     Morgen ist die 4. ESWT und vielleicht geht es mir danach ja richtig gut.
     
     Werde auf jeden Fall noch bis Ende der Woche alles ganz ruhig angehen,
-    jetzt bloß nichts überstürzen.
+    jetzt bloÃŸ nichts Ã¼berstÃ¼rzen.
     
 

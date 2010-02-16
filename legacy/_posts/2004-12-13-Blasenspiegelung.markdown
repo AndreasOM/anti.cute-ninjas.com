@@ -9,7 +9,7 @@ to clean it up.
 Sorry!)
 
     Gleich ist es soweit.
-    In etwa einer Stunde wird mein Urologe eine Blasenspiegelung durchführen.
+    In etwa einer Stunde wird mein Urologe eine Blasenspiegelung durchfÃ¼hren.
     
     Meine Blase hat aber seid Samstag morgen kaum noch Probleme gemacht.
     

@@ -12,7 +12,7 @@ Sorry!)
     Wirkt auf den ersten Blick etwas seltsam, scheint aber dennoch Sinn zu machen.
     
     Erkenntnisse ?
-    - Ich bin Linksh‰nder
+    - Ich bin Linksh√§nder
     - Ich vetrage (im Moment) keine (Kuh-)Milch
     - Schwarzer Schimmelpilz
     - Problem:
@@ -20,7 +20,7 @@ Sorry!)
     -- Unverdaulicher Schweinkram
     -- Anke
     (Was auch immer das heissen mag.)
-    - Mein linkes bein ist l‰nger
+    - Mein linkes bein ist l√§nger
     - Ich bin auf dem Weg der Besserung
     
     Mir geht es auf jeden Fall erstmal deutlich besser.

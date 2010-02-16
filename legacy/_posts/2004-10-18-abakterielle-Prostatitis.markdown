@@ -12,11 +12,11 @@ Sorry!)
     
     Es kann "eine ganze Weile" dauern bis ich das ganze wieder los bin.
     
-    <em>Über Prostata Probleme spricht man nicht.</em>
+    <em>Ãœber Prostata Probleme spricht man nicht.</em>
     
     Genau. Und genau deshalb fange ich jetzt damit an.
     
-    Anfangs sah das ganze wie eine einfache Blasenentzündung aus.
+    Anfangs sah das ganze wie eine einfache BlasenentzÃ¼ndung aus.
     Mittlerweile weiss ich es besser.
     
     Wir werden Donnerstag mit einer Schockwellentherapie anfangen.

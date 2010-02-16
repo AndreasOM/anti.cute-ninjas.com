@@ -8,31 +8,31 @@ it might look a little ... ugly until I find the time
 to clean it up.
 Sorry!)
 
-    War heute im "Zentrum für Akkupunktur" in Stuttgart.
-    Das vorhergehende Gespräch war etwas völlig anderes als bei den anderen Ärzten.
-    Der Arzt hat sich wirklich für alles interessiert und auch Fragen gestellt,
+    War heute im "Zentrum fÃ¼r Akkupunktur" in Stuttgart.
+    Das vorhergehende GesprÃ¤ch war etwas vÃ¶llig anderes als bei den anderen Ã„rzten.
+    Der Arzt hat sich wirklich fÃ¼r alles interessiert und auch Fragen gestellt,
     die nicht in direktem Zusammenhang mit den Schmerzen stehen.
     
     Danach habe ich meine erste Behandlung bekommen.
-    10 Minuten auf der Rückseite und dann 20 auf der Vorderseite.
+    10 Minuten auf der RÃ¼ckseite und dann 20 auf der Vorderseite.
     Ich dachte immer Akkupunktur tut nicht weh ... haha.
     Die erste Nadel ging direkt in meinen Gluteus Maximus und das tat ziemlich weh.
     
-    Nach der Behandlung habe ich noch mit einer chinesischen Ärztin über Ernährung geredet.
-    Puh ... ganz schön kompliziert.
+    Nach der Behandlung habe ich noch mit einer chinesischen Ã„rztin Ã¼ber ErnÃ¤hrung geredet.
+    Puh ... ganz schÃ¶n kompliziert.
     Im wesentlichen:
     <ul>
     \t<li>Keine Milchprodukte (alle Tiere)</li>
     \t<li>Mehr Fleisch (soviel zum Vegetarier)</li>
-    \t<li>Keine Nüsse (und das wo wir Sonntag Kekse gebacken haben :( )</li>
+    \t<li>Keine NÃ¼sse (und das wo wir Sonntag Kekse gebacken haben :( )</li>
     \t<li>Keine Tees (zu Trinken eigentlich nur Wasser und Honig-Wasser)</li>
     \t<li>Keine Rohkost (ade ihr Salate)</li>
     \t<li>Viel Yin (kalt), wenig neutral, kein Yang (warm)
     </li></ul>
     
-    Und das ganze für 3-6 Monate.
+    Und das ganze fÃ¼r 3-6 Monate.
     
-    Jetzt ist mir dann übel und ich habe ziemliche Bauchschmerzen,
+    Jetzt ist mir dann Ã¼bel und ich habe ziemliche Bauchschmerzen,
     aber eine "erst Verschlimmerung" gilt als sehr gutes Zeichen.
     
 

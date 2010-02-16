@@ -12,6 +12,6 @@ Sorry!)
     but the original WP .css looks ... hmmm ... not really great.
     
     I just snatched one from here:
-    <a href="http://onefinejay.com/2004/05/22/prettier-wp-stylesheet/">One Fine Jay » Prettier WP stylesheet</a>
+    <a href="http://onefinejay.com/2004/05/22/prettier-wp-stylesheet/">One Fine Jay Â» Prettier WP stylesheet</a>
     
 

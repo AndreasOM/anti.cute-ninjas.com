@@ -35,8 +35,8 @@ Sorry!)
     Step 3:
     Edit wp-comments-post.php
     Replace
-    if ( ‘closed’ == $wpdb->get_var("SELECT comment_status FROM $tableposts WHERE ID = ‘$comment_post_ID’") )
-    die( __(’Sorry, comments are closed for this item.’) );
+    if ( Â‘closedÂ’ == $wpdb->get_var("SELECT comment_status FROM $tableposts WHERE ID = Â‘$comment_post_IDÂ’") )
+    die( __(Â’Sorry, comments are closed for this item.Â’) );
     with
     $commentstatus = $wpdb->get_var("SELECT comment_status FROM $tableposts WHERE ID = $comment_post_ID");
     if ('closed' == $commentstatus)

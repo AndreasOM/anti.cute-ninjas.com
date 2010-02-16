@@ -12,8 +12,8 @@ Sorry!)
     I got quite a few questions from people who don't speak german about my struggles with my <em>disease</em>.
     Some of them where from friends, some from people who where looking for help and stumbled upon my blog.
     
-    (Für die nicht Englisch Sprechenden unter euch, werde ich demnächst das ganze nochmal ins Deutsch übersetzen.
-    Oder ihr lest einfach meine alten Blog Einträge.)
+    (FÃ¼r die nicht Englisch Sprechenden unter euch, werde ich demnÃ¤chst das ganze nochmal ins Deutsch Ã¼bersetzen.
+    Oder ihr lest einfach meine alten Blog EintrÃ¤ge.)
     
     Sometime in early september this year a strange <em>itching</em> started to develop at the end of my penis.
     Since it got a little bit annoying, I visited my doctor.

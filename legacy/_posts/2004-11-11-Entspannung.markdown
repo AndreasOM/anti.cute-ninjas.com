@@ -12,8 +12,8 @@ Sorry!)
     <a href="http://www.schmerzakademie.de/pat_serv.php">Schmerzakademie</a>
     zu entspanenen.
     
-    Geht etwa 2 Stunden, aber mehr als 27 Minuten habe ich einfach nicht still liegen können.
-    Ich denke genau das könnte eines meiner Hauptprobleme sein.
-    Einfach <strong>nichts</strong> tun und <strong>entspannen</strong> fühlt sich einfach falsch an.
+    Geht etwa 2 Stunden, aber mehr als 27 Minuten habe ich einfach nicht still liegen kÃ¶nnen.
+    Ich denke genau das kÃ¶nnte eines meiner Hauptprobleme sein.
+    Einfach <strong>nichts</strong> tun und <strong>entspannen</strong> fÃ¼hlt sich einfach falsch an.
     
 

@@ -13,18 +13,18 @@ Sorry!)
     
     Und ?
     Nichts.
-    Hämorrhoiden etwas vergrössert.
-    Ein (kleiner) Polyp in der Nähe der Stelle die empfindlich ist.
+    HÃ¤morrhoiden etwas vergrÃ¶ssert.
+    Ein (kleiner) Polyp in der NÃ¤he der Stelle die empfindlich ist.
     Probe genommen und abwarten, in ~3 Wochen sollten die Ergebnisse da sein.
     
-    Der Enddarm war aber <strong>nicht</strong> entzündet.
+    Der Enddarm war aber <strong>nicht</strong> entzÃ¼ndet.
     Mein Dickdarm macht aber immer noch Zicken,
-    wenn's in 2-3 Wochen nicht besser wird, müssen wir da wohl auch noch reinschauen.
+    wenn's in 2-3 Wochen nicht besser wird, mÃ¼ssen wir da wohl auch noch reinschauen.
     
     Das Ziehen aus den Oberschenkeln scheint sich langsam Richtung Hoden zu verlagern.
     
-    Ich habe mir fest vorgenommen zu kämpfen -- was auch immer das bedeutet.
+    Ich habe mir fest vorgenommen zu kÃ¤mpfen -- was auch immer das bedeutet.
     Als erstes versuche ich Mal auf ein <em>ganz normales</em> Verhalten zu kommen,
-    d.h. wie früher losziehen und mi dem Jammern aufhören.
+    d.h. wie frÃ¼her losziehen und mi dem Jammern aufhÃ¶ren.
     
 

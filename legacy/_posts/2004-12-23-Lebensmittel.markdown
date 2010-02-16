@@ -9,20 +9,20 @@ to clean it up.
 Sorry!)
 
     War heute bei 'nem anderen Heilpraktiker.
-    Hat mir Blut abgenommen für ein Immun Profil.
+    Hat mir Blut abgenommen fÃ¼r ein Immun Profil.
     Mal schauen, was ich alles vertrage und was nicht.
     
     Weiss auch nicht so genau was falsch ist,
     wird mir aber erstmal helfen den Darm aufzubauen.
     
-    Bei der Störfeldanalyse kam dann wieder einmal heraus,
-    daß ich zur Zeit keine Milch vertrage...
+    Bei der StÃ¶rfeldanalyse kam dann wieder einmal heraus,
+    daÃŸ ich zur Zeit keine Milch vertrage...
     
-    ... und kein Eiweiß ...
+    ... und kein EiweiÃŸ ...
     
     .... und keinen Zucker.
     
-    Mal schauen was ich den nächsten Tage so essen werde.
-    Rohkost hat mir die chinesische Ernährungsberatering ja auch schon verboten.
+    Mal schauen was ich den nÃ¤chsten Tage so essen werde.
+    Rohkost hat mir die chinesische ErnÃ¤hrungsberatering ja auch schon verboten.
     
 

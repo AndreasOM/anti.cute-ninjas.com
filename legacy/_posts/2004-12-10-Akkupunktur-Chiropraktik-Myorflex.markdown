@@ -12,11 +12,11 @@ Sorry!)
     Ganz kleine Nadel :)
     Bin fast eingeschlafen, so tief war ich in "Trance".
     
-    Heute morgen beim Orthopäden.
+    Heute morgen beim OrthopÃ¤den.
     Hat mich wieder eingerenkt und danach gequaddelt.
     
     Gerade eben beim Heilpraktiker.
-    Die verhärteten Muskeln weich kneten.
+    Die verhÃ¤rteten Muskeln weich kneten.
     "Irgendwas ist falsch."
     Ich weiss.
     

@@ -11,8 +11,8 @@ Sorry!)
     Hier nur kurz als Zusammenfassung.
     
     FR: Ging es mir relativ schlecht. Starke Bauchscmerzen. Psychisch auch am Ende.
-    SA: War schon deutlich besser. Hab' mir spaeter dann einen Ouzo gegönnt, hat acuh geholfen.
-    Normaler Sex war fast möglich.
+    SA: War schon deutlich besser. Hab' mir spaeter dann einen Ouzo gegÃ¶nnt, hat acuh geholfen.
+    Normaler Sex war fast mÃ¶glich.
     SO: Morgens leichte Schmerzen, aber sonst OK. Sehr viel kuscheln.
     Nachmittags Spaziergang. 2 Stunden. Danach war ich tot. Vollkommen ausgepowert.
     MO: Langsam Aufstehen (Feiertag). Schoenes Fruehstueck. Versuchter Sex. Naja ...

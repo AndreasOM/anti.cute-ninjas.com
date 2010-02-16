@@ -11,10 +11,10 @@ Sorry!)
     War gerade bei einem Heilpraktiker.
     Ein Freund einer Freundin.
     
-    Ich wünschte ich wäre schon vor Wochen da gewesen.
+    Ich wÃ¼nschte ich wÃ¤re schon vor Wochen da gewesen.
     
     Laut seiner Aussage handelt es sich einfach um ein paar verkrampfte Muskeln.
-    Die hat er dann "weich gedrückt".
+    Die hat er dann "weich gedrÃ¼ckt".
     Das tat zwar ziemlich weh,
     aber jetzt geht es mir erheblich besser.
     

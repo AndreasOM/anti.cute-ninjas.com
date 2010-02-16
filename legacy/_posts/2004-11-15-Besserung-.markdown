@@ -10,24 +10,24 @@ Sorry!)
 
     Habe am Freitag von einem Freund eine Flasche "Rechts Regulat" bekommen.
     Es scheint etwas zu bringen.
-    Nehme seit Freitag abend zwei Löffel täglich.
-    Habe leichte <em>entzündungs</em> Gefühle,
+    Nehme seit Freitag abend zwei LÃ¶ffel tÃ¤glich.
+    Habe leichte <em>entzÃ¼ndungs</em> GefÃ¼hle,
     aber meinem Bauch geht es wesentlich besser.
     Ausserdem habe ich relativ starke Schmerzen im rechten
     Mittel- und Ringfinger. (In beiden hatte ich dieses Jahr einen Kapselriss.)
     
     Die Stelle am Bauch die so schmerzt, scheint wichtig zu sein.
-    Sobald ich Druck auf sie ausübe wird der Schmerz stärker,
+    Sobald ich Druck auf sie ausÃ¼be wird der Schmerz stÃ¤rker,
     aber danach ist es deutlich besser.
-    Wenn ich sehr starken Druck ausübe,
+    Wenn ich sehr starken Druck ausÃ¼be,
     dann habe ich Schmerzen in den Oberschenkeln,
-    dem Rücken und dem Hintern,
+    dem RÃ¼cken und dem Hintern,
     also genau die Stellen die mir gerade Probleme machen.
     
     Ein <strong><em>Triggerpunkt</em></strong> ?
     
     Ich bin ausserdem relativ sicher,
-    daß ich weder an CPPS noch an chronischer Prostatitis leide.
+    daÃŸ ich weder an CPPS noch an chronischer Prostatitis leide.
     Die Symptome passen einfach nicht...
     
 
