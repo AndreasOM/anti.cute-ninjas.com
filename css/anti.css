@@ -68,6 +68,14 @@
 	font-size: small;
 }
 
+ul.related {
+	list-style-type: none;
+	padding-left: 0;
+	display: block;
+	border: 1px solid green;
+	background: #99ccff;
+}
+
 div.leftright{
 	position: relative;
 	height: 20px;
