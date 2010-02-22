@@ -1,0 +1,57 @@
+---
+layout: post
+title: Forum
+time: "16:35"
+---
+
+The omni-mad.com website needs a forum.
+I have used phpBB in the past, but was more than dissatisfied with it on many occasions,
+so I started to loom for other solutions.
+
+A quick check at forum-matrix.org lead to this shortlist:
+
+* [FUDforum](http://fudforum.org/)
+* [MyBB](http://www.mybboard.net/)
+* [NextBBS](http://www.nextbbs.com/)
+* [Phorum](http://www.phorum.org/)
+* [phpBB](http://www.phpbb.com/)
+* [Vanilla](http://www.getvanilla.com/)
+
+All non-Ruby and non-PHP forums where excluded.
+All forums not supporting Postgres where excluded.
+I wish they had info about Nginx support.
+
+Let the elimination begin...
+
+# Vanilla
+The website looked slick, but took ages to load.
+The "Community" area (Powered by Vanilla) didn't catch my eye at all. it felt a bit like the old phpBB 1.0.
+Sorry. Vanilla is out.
+
+# NextBBS
+Fast load for their website, but it looked a bit .... lacking.
+Fast load time in their forum (N2 powered), but didn't find the downloads and documentation.
+Sorry. N2/NextBBS is gone.
+
+# MyBB
+Fast loading, good looking website.
+Found the info I needed (docs + downloads ) very fast.
+Even found the demo site immediatly, but ... nope. Loading didn't feel slick enough.
+
+# phpBB
+You knew this was coming ... didn't you?
+Opened the phpBB demo/community forum. And that was it.
+One look and I knew I just couldn't stand it.
+It might be better than 1.x and 2.x, but the memories just spoiled it.
+
+# Phorum
+Not really sure why, but the karma coming from FUDforum just was better.
+I might give phorum a try when I find some time for experimenting,
+but right now I need something that works.
+
+# FUDforum
+The winner. So far. I will let you know in a few days if everything worked out.
+
+
+
+
