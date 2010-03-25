@@ -1,0 +1,12 @@
+---
+layout: post
+title: life suxs
+time: "11:20"
+---
+We have to ship the driver today.
+We know the build and test cycle will take at least 6hours.
+We can't start before we get a comitted level.
+
+It's gonna be a long day....
+
+[Original Post](http://users.livejournal.com/__anti/5573.html)

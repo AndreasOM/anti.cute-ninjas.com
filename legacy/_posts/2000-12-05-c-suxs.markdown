@@ -1,0 +1,9 @@
+---
+layout: post
+title: c suxs
+time: "16:03"
+---
+argl,
+if I overload method X(char x) in the child class why is method X(int z=5) not found ?!
+
+[Original Post](http://users.livejournal.com/__anti/4880.html)
