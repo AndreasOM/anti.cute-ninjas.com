@@ -10,13 +10,18 @@ It's not perfect, but it's a start.
 
 I started to implement the POS (Point of Sale) System for Kathrin's Shop ([Elfenrausch](http://www.elfenrausch.de/)).
 Just some simple PHP and MySQL based stuff.
+
 It will run on her [MacMini](http://www.amazon.de/exec/obidos/ASIN/B000AOHZPY/webhome00d/)
 with [MAMP](http://www.mamp.info/)
+
 Right now I'm looking for a good kiosk mode solution.
+
 Firefox sucks ... in this regard,
-so it looks like I'm going the [camino](http://www.caminobrowser.org/)
+so it looks like I'm going the [camino](http://www.caminobrowser.org/) road.
+
 There is a kiosk-extension, but I couldn't find a way to force camino into kiosk mode at startup,
 so right now I'm downloading the newest XCode installer, to build camino from scratch;
+
 And add the missing features.
 (Fullscreen/Kiosk-mode that still allows user switching.)
 
