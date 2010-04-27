@@ -2,30 +2,28 @@
 layout: post
 title: "Moved...."
 ---
-<h1>Moved....</h1>
-(This post was autoconverted from the old news system,
-it might look a little ... ugly until I find the time
-to clean it up.
-Sorry!)
 
-    Long time no update, I know.
-    
-    A few weeks ago our old provider (alturo) decided to piss everyone off and close its business.
-    Got a pretty nice deal for a new server by haggling ... a lot.
-    
-    Only tradeoff:
-    The new system runs plesk.
-    And plesk is the pest.
-    
-    On the old server everything was in one database and all the configuration files (bind, apache, mysql, postfix) were created by one simple script.
-    
-    The layout was something like this:
+Long time no update, I know.
+
+A few weeks ago our old provider (alturo) decided to piss everyone off and close its business.
+Got a pretty nice deal for a new server by haggling ... a lot.
+
+Only tradeoff:
+
+The new system runs plesk.
+
+And plesk is the pest.
+
+On the old server everything was in one database and all the configuration files (bind, apache, mysql, postfix) were created by one simple script.
+
+The layout was something like this:
+
     Customer
-    ( 1 -> N  ) Login
-    ( 1 -> N ) Sites
-    
-    So if Customer "Thomas Test" had login "ttalpha" and "ttprod" with three domains (alpha.1.org, alpha.2.org + a.3.org and www.1.org, www.2.org + www.3.org),
-    then the filesystem looked like this:
+      ( 1 -> N  ) Login
+      ( 1 -> N ) Sites
+
+So if Customer "Thomas Test" had login "ttalpha" and "ttprod" with three domains (alpha.1.org, alpha.2.org + a.3.org and www.1.org, www.2.org + www.3.org),
+then the filesystem looked like this:
     /home/
     --ttalpha/
     ----web/
@@ -37,27 +35,26 @@ Sorry!)
     ------www.1.org/
     ------www.2.org/
     ------www.3.org/
-    
-    With one login (and password/sshkey) shared per login/user,
-    but a tight seperation of the test and production sites.
-    
-    Now with PLESK ... argl.
-    For the above setup, I need about 400 Clicks in the Webinterface.
-    And then I end up with 3 users ... and have the subdomains (alpha+www) shared for each domain.
-    Or I get 6 users ... with 6 logins and 6 passwords.
-    
-    Yuck.
-    
-    I still have to get qmail to work right. Some of my mail is simply swalloed and I have yet to find out what happens ... I don't even get bounces :(
-    
-    
-    This PLESK-mess sucks.
-    And I _will_ find a new host soon!
-    
-    The DNS-disaster is a whole new story ....
-    
-    
-    
-    
-    
+
+With one login (and password/sshkey) shared per login/user,
+but a tight seperation of the test and production sites.
+
+Now with PLESK ... argl.
+
+For the above setup, I need about 400 Clicks in the Webinterface.
+
+And then I end up with 3 users ... and have the subdomains (alpha+www) shared for each domain.
+
+Or I get 6 users ... with 6 logins and 6 passwords.
+
+Yuck.
+
+I still have to get qmail to work right. Some of my mail is simply swalloed and I have yet to find out what happens ... I don't even get bounces :(
+
+
+This PLESK-mess sucks.
+
+And I _will_ find a new host soon!
+
+The DNS-disaster is a whole new story ...
 

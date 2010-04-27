@@ -2,12 +2,7 @@
 layout: post
 title: "anticast"
 ---
-<h1>anticast</h1>
-(This post was autoconverted from the old news system,
-it might look a little ... ugly until I find the time
-to clean it up.
-Sorry!)
+A while ago I had the urge to write some stuff in my native language again,
+so if you understand german head over to [anticast.de](http://www.anticast.de/)
 
-    A while ago I had the urge to write some stuff in my native language again,
-    so if you understnd german head over to <a href="http://www.anticast.de/">anticast.de</a>
 
