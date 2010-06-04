@@ -40,7 +40,7 @@ I love the fact that apple is tightening up their rules about application submis
 Yes, it will slow down the app number growth, but will improve the signal-to-noise ratio significantly.
 
 And for all those who think censorship is bad,
-go talk to those []Android Tetris Developers](http://arstechnica.com/gadgets/news/2010/06/google-blocks-tetris-clones-from-android-market.ars).
+go talk to those [Android Tetris Developers](http://arstechnica.com/gadgets/news/2010/06/google-blocks-tetris-clones-from-android-market.ars).
 
 ## 4. iPhone status bar is cleaner.
 
