@@ -37,6 +37,38 @@
 		{% endif %}
 	{{ content }}
 	{% endif %}
+	<div class="social">
+	{% if item %}
+		<span class="postsubject"><a href="{{ item.url }}">{{ item.title }}</a></span><br/>
+		<span class="flattr">
+			<script type="text/javascript">
+			var flattr_url = 'http://anti.cute-ninjas.com{{ item.url }}';
+			var flattr_btn = 'compact';
+			var flattr_uid = '17336';
+			var flattr_tle = 'Anti\'s World';
+			var flattr_dsc = 'Personal Blog of a totally insane tech guru.';
+			var flattr_cat = 'text';
+			var flattr_lng = 'en_GB';
+			var flattr_tag = 'tech, linux, web, games, social, brag';
+			</script>
+			<script src="http://api.flattr.com/button/load.js" type="text/javascript"></script>
+		</span>
+	{% else %}
+		<span class="flattr">
+			<script type="text/javascript">
+			var flattr_url = 'http://anti.cute-ninjas.com{{ page.url }}';
+			var flattr_btn = 'compact';
+			var flattr_uid = '17336';
+			var flattr_tle = 'Anti\'s World';
+			var flattr_dsc = 'Personal Blog of a totally insane tech guru.';
+			var flattr_cat = 'text';
+			var flattr_lng = 'en_GB';
+			var flattr_tag = 'tech, linux, web, games, social, brag';
+			</script>
+			<script src="http://api.flattr.com/button/load.js" type="text/javascript"></script>
+		</span>
+	{% endif %}
+	</div>
 	<div class="related">
 		<ul class="related">
 	{% for post in site.related_posts limit:3 %}
