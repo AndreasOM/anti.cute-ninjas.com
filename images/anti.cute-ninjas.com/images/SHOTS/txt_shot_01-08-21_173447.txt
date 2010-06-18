@@ -1,0 +1,3 @@
+I like the new Buell.
+Tried to compile light, but that seems to need Mozilla compiled by hand.
+So I did that over at Blue (much faster) and wget-ed the result. (hmmm... 106%??)

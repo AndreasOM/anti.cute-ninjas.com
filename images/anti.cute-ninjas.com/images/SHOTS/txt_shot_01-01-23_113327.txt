@@ -1,0 +1,3 @@
+This is the last shot of my old window-manager (afterstep)
+with my <a href="../afterstep/themes/blueish">blueish</a> theme.<br>
+This theme was the base for a long row of improvements.

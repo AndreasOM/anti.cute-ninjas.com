@@ -77,9 +77,13 @@
 		</ul>
 	</div>
 	<div>
-	{% if _facebookComment %}
 	Comment:
+	{% include disqus-comment.html %}
+	
+	{%if false %}
+	{% if _facebookComment %}
 	{{ _facebookComment }}
+	{% endif %}
 	{% endif %}
 	</div>
 	</div>

@@ -1,0 +1,7 @@
+This is me learning Gtk+Perl again.
+
+In the upper right corner is the dialog that is opened when I click on the clock in my GKrellm.
+
+<b>Note:</b>
+This whole setup including the script was lost during my big harddisk crash :(
+

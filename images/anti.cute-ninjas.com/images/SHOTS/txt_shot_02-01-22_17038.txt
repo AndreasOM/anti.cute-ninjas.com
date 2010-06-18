@@ -1,0 +1,12 @@
+upper left:
+I just got my NexII (frontierlabs.com) and have to write some 'ease of use' tools.
+
+bottom:
+I did a chrooted debian installation on purples 2nd disk. I want to remove the old slow one, all that's left is the right kernel.
+
+right side:
+(gkrellm) I wrote a small plugin that displays an icon for the current xmms song.
+
+upper right:
+yahoo-messenger.
+I don't like it, but some of my friends use it...

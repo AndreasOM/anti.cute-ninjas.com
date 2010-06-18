@@ -1,0 +1,4 @@
+... but I really want to use the space on the right side.
+Don't get me wrong, I love gkrellm and it's functionality and features, but I need a vertical sysmon.
+And that's exactly what you see in the SciTE window,
+the first lines of vsysmon.....
