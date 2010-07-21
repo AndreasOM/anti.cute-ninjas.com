@@ -4,7 +4,7 @@ title: Better Decisions
 time: "09:09"
 ---
 
-A few weeks ago I explained how making decision lead to a new place to live ([But then I decided](/2010/06/08/But-Then-I-Decided/).
+A few weeks ago I explained how making decision lead to a new place to live ([But then I decided](/2010/06/08/But-Then-I-Decided/)).
 
 A little more than a year ago when I started to work for Gameforge,
 I walked past the building and said to myself "I want that corner office."
