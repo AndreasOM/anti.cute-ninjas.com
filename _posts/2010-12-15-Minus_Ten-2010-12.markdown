@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Minus Ten - 2010-12"
+time: "20:15"
+---
+
+My first (surviving) blog entries are from August 2010.
+This was ten years ago,
+so I'll grab the chance
+and start to look at them with some hindesight bias ;)
+
+December 2010
+Looking back it seems like I was more twittering than blogging back then.
+Well, I should have seen the light and become rich, but I didn't.
+Some posts about [buying CDs](/legacy/2000/12/04/Amazon/),
+[coffee](/legacy/2000/12/04/Back-from-Coffee/) [breaks](/legacy/2000/12/04/Coffe-Break/)
+my [Empeg MKII](/legacy/2000/12/04/Empeg/),
+[waking up](/legacy/2000/12/04/Good-Morning/),
+[java](/legacy/2000/12/04/Java/) which [suxs](/legacy/2000/12/04/Java-suxs/)
+some posts about finishing [work](/legacy/2000/12/04/Leaving/)
+and [lunch](/legacy/2000/12/04/Lunch/).
+
+And more tweet like stuff.
+And by December 6th I still didn't start an entry for [the party](/legacy/2000/12/06/the-party/).
+
+All in all kinda boring.
+But I wasn't yet ready to open up my private live to the world.
+
+I was working in Hursley at IBM back then ensuring good communication between the Boeblingen and Hursley team.
+The product was MQSeries Integrater, which later should become an integral part for banks and brokers.
+
+My operating system of choice was GNU/Linux (Debian).
+With Afterstep as the window manager.
+I was hacking a lot of stuff in Perl and Shell (Bash)
+and used C/C++ to write code.
+
+In 2000 I was still on the "fastlane" which was IBM wording for "upper management soon".
+I bailed out later, which I never really regretted, but didn't see coming back then.
+
+Life was good;
+And I was single...
+
+
+
