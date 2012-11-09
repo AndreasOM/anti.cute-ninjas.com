@@ -11,18 +11,18 @@ Let's see what happened.
 I was trying to [keep you entertained](/SHOTS/2002/01/22/17038/)
 
 with
-[linux stuff]({% 2002-01-28-whatever %}),
-[other linux stuff]({% 2002-01-30-ooops %}),
-[green]({% 2002-02-04-Green %}) (which is just more linux stuff)
-[nvidia]({% 2002-02-09-nvidia %}) (linux stuff)
+[linux stuff]({% post_url 2002-01-28-whatever %}),
+[other linux stuff]({% post_url 2002-01-30-ooops %}),
+[green]({% post_url 2002-02-04-Green %}) (which is just more linux stuff)
+[nvidia]({% post_url 2002-02-09-nvidia %}) (linux stuff)
 and a
-[new harddisk]({% 2002-04-22-BLUE2 %}) (for linux stuff) 60GB
+[new harddisk]({% post_url 2002-04-22-BLUE2 %}) (for linux stuff) 60GB
 
-[gkrellMMSi]({% 2002-03-03-gkrellMMSi %}) was one of the tools that could have become huge, but I had major focus problems back then.
+[gkrellMMSi]({% post_url 2002-03-03-gkrellMMSi %}) was one of the tools that could have become huge, but I had major focus problems back then.
 
-[stoned]({% 2002-04-16-stoned %}) was idling around due to the same problems.
+[stoned]({% post_url 2002-04-16-stoned %}) was idling around due to the same problems.
 
-[evoke]({% 2002-07-24-going-to-evoke- %}) was one of the demoscene parties I attended, but never managed to start any stuff (let's not even think about finishing).
+[evoke]({% post_url 2002-07-24-going-to-evoke- %}) was one of the demoscene parties I attended, but never managed to start any stuff (let's not even think about finishing).
 
-[Restructuring]({% 2002-08-22-Restructuring %}) of blog/site tools, the automization of this site has come a long way.
+[Restructuring]({% post_url 2002-08-22-Restructuring %}) of blog/site tools, the automization of this site has come a long way.
 
