@@ -1,8 +1,9 @@
 ---
 layout: post
-title: ""
+title: "Whatever"
 ---
-<h1></h1>
+(The name of this post somehow got lost between technology transitions)
+
 (This post was autoconverted from the old news system,
 it might look a little ... ugly until I find the time
 to clean it up.
