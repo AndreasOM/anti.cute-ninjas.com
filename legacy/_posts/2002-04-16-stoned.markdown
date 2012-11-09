@@ -8,7 +8,7 @@ it might look a little ... ugly until I find the time
 to clean it up.
 Sorry!)
 
-    Just added stoned to freshmeat.<br />
-    Check it out <a href="http://freshmeat.net/projects/stoned/">here</a><br />
-    <br />
+Just added stoned to freshmeat.<br />
+Check it out [here](http://freshmeat.net/projects/stoned/)
+
 

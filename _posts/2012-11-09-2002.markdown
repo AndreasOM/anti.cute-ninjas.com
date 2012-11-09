@@ -13,7 +13,7 @@ I was trying to [keep you entertained](/SHOTS/2002/01/22/17038/)
 with
 [linux stuff]({% post_url 2002-01-28-whatever %}),
 [other linux stuff]({% post_url 2002-01-30-ooops %}),
-[green]({% post_url 2002-02-04-Green %}) (which is just more linux stuff)
+[green]({% post_url 2002-02-04-Green %}) (which is just more linux stuff),
 [nvidia]({% post_url 2002-02-09-nvidia %}) (linux stuff)
 and a
 [new harddisk]({% post_url 2002-04-22-BLUE2 %}) (for linux stuff) 60GB

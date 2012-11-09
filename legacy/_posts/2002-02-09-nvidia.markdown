@@ -2,14 +2,12 @@
 layout: post
 title: "nvidia"
 ---
-<h1>nvidia</h1>
-(This post was autoconverted from the old news system,
-it might look a little ... ugly until I find the time
-to clean it up.
-Sorry!)
+I got it working. Stable.
 
-    I got it working. Stable.<br />
-    But I had to disable AGP (BIOS).<br />
-    Now it's almost unusable slow in 2D mode.<br />
-    I guess I'll have to invest some money into a GeForce2 (now that the 4 is announced I'm sure prices will drop).<br />
+But I had to disable AGP (BIOS).
+
+Now it's almost unusable slow in 2D mode.
+
+I guess I'll have to invest some money into a GeForce2 (now that the 4 is announced I'm sure prices will drop).
+
 

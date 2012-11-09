@@ -8,5 +8,10 @@ it might look a little ... ugly until I find the time
 to clean it up.
 Sorry!)
 
+[evoke](http://banner.evoke-net.de/click/4/)
+
+{% comment %}
     <a href="http://banner.evoke-net.de/click/4/"><img src="http://banner.evoke-net.de/view/4/420_white.gif"></a>
+{% endcomment %}
+
 
