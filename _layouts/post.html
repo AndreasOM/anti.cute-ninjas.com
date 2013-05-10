@@ -6,3 +6,13 @@ layout: default
 {% capture _facebookComment %}{% include facebook-comment.html %}{% endcapture %}
 {% include item_post.html %}
 
+{% for flickr_url in post.flickr %}
+<a href="{{ flickr_url }}">{{ flickr_url | flickr_image }}</a>
+{% endfor %}
+
+{% if item %}
+ITEM
+{% endif %}
+
+{{ post.flickr }}
+
